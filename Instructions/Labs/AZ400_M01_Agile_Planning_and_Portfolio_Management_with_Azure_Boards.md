@@ -56,7 +56,7 @@ lab:
 
 このタスクでは、Azure DevOps Demo Generator を使用して、**Parts Unlimited** テンプレート基づいて新しいプロジェクトを生成します。
 
-**すでに Parts Unlimited プロジェクトを作成済みの方は飛ばして下さい。**
+**すでに Parts Unlimited プロジェクトを作成済みの方は飛ばして下さい。 **
 
 1.  ラボ コンピューターで、Web ブラウザーを起動し、[Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net) に移動します。このユーティリティ サイトは、ラボに必要なコンテンツ (作業項目、リポジトリなど) が事前に入力されたアカウント内に新しい Azure DevOps プロジェクトを作成するプロセスを自動化します。
 
